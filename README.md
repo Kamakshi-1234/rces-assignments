@@ -1,5 +1,5 @@
 
-  NAME : ANJALI PANNU
+  Name : Anjali Pannu
   ===
   
   
